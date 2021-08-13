@@ -33,7 +33,7 @@ continue_btn.onclick = ()=>{
 
 let timeValue =  30;
 let que_count = 0;
-let que_counts = shuffleRand();
+let que_counts = 0;
 let que_numb = 1;
 let userScore = 0;
 let counter;
